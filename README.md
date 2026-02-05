@@ -19,7 +19,7 @@ Welcome to my certification repository. Below is a collection of my proffesional
 ## Data, Database & IT
   *[Big Data In The Age of AI]
   
-		(Certificate%20Of%20Big%20Data%20In%20The%29Age%20Of%20AI.pdf)
+		(Certificate%20Of%20Big%20Data%20In%20the%29Age%20Of%20AI.pdf)
 		
   *[Database Foundations]
   
