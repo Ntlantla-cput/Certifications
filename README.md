@@ -12,9 +12,9 @@ Welcome to my certification repository. Below is a collection of my proffesional
   
 		(Certificate%20Of%20UX%20Design%20Analyzing%20User%20Data.pdf)
 		
-  *[UX Design 3: Creating High-Fedelity Designs]
+  *[UX Design 3: Creating Personas]
   
-		(CertificateOfCompletion_UX%20Design%203%20Creating%20High-Fedelity%20Designs.pdf)
+		(CertificateOfCompletion_UX%20Design%203%20Creating%20Personas.pdf)
 
 ## Data, Database & IT
   *[Big Data In The Age of AI]
